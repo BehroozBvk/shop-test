@@ -1,6 +1,6 @@
 ## Project Launch Guide
 
-###features
+### features
 
 - Login Panel
 - Register Panel
@@ -9,7 +9,7 @@
 - Managments contain : **Users**|**Role**|**Permission**|**Assign Role Permissions**|**Assign Roles To User**
 
 
-##Sterp 1 : Config Database
+## Sterp 1 : Config Database
 
 + open .env file and  Sets : <br><br>
  `DB_DATABASE=shop-test`<br>
@@ -20,12 +20,12 @@
  >By run the above command , all available Migrations , along with temporary seed data are implemented and inline.
  
 
-##Sterp 2 : Visit Route : [shop-test](http:localhost/shop-test/public) and Click Login.
+## Sterp 2 : Visit Route : [shop-test](http:localhost/shop-test/public) and Click Login.
 >Route : `http:localhost/shop-test/public`
 
 By default , a manager with all permissions for the system is defined , so you can login as administrator.
 
-#####Info Admin User : 
+##### Info Admin User : 
 `email : iman@theincitement.com`<br>
 `password : 123456` 
 #
