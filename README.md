@@ -1,6 +1,3 @@
-<div dir="rtl">این جدول اطلاعات صفات global را برای نام های 
-taxanomy محصولات ذخیره میکند. 
-</div>
 
 ## Project Launch Guide
 
